@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(112, 196, 196);
+    text-align: center;
+    margin: 10px;
+}
+button{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: larger;
+    width: 150px;
+    margin: 10px;
+}
+h2{
+    font-size: xx-large;
+}
+h1{
+    font-size: xx-large;
+}
+#saveBf {
+    padding: 10px;
+    font-weight: bolder;
+}
+
